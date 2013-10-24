@@ -10,3 +10,4 @@ NOTE
 TODO List
 =========================
   1. Provide a VoIP demo to show how to use this API instead of doing AECM on PCM files.
+  2. Update the core module of AECM.
