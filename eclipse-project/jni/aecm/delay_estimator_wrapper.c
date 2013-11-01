@@ -16,7 +16,7 @@
 
 #include "delay_estimator.h"
 #include "delay_estimator_internal.h"
-#include "compile_assert.h"
+#include "compile_assert_c.h"
 
 // Only bit |kBandFirst| through bit |kBandLast| are processed and
 // |kBandFirst| - |kBandLast| must be < 32.

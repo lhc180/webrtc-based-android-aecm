@@ -15,8 +15,8 @@
  *
  */
 
-#include "signal_processing_library.h"
 #include "complex_fft_tables.h"
+#include "signal_processing_library.h"
 
 #define CFFTSFT 14
 #define CFFTRND 1

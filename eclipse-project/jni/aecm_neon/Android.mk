@@ -1,1 +1,0 @@
-#TODO(billhoo) if use aecm on neon platform, use aecm_neon instead.
